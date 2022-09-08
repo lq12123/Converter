@@ -1,0 +1,76 @@
+* {
+    font-family: "Inter Medium";
+    font-size: 15px;
+}
+
+Button#arrow
+{
+    color: #F18729;
+/*    border: 1px solid #000;*/
+    font-size: 25px;
+}
+
+QLabel#dropField
+{
+
+    border: 2px dashed #025EC1;
+    border-radius: 20px;
+    color: rgba(35, 152, 246, 0.6);
+}
+
+Button
+{
+    color: #fff;
+    border-radius: 4px;
+    height: 30px;
+    border: 2px solid transparent;
+}
+
+Button#uploadBtn
+{
+    background-color: #116EBF;
+}
+
+Button#uploadBtn:hover
+{
+    border: 2px solid #116EBF;
+}
+
+Button#clearQueueBtn
+{
+    background-color: #FC3B3B;
+}
+
+Button#clearQueueBtn[isEnabled="false"]
+{
+    background-color: rgba(252, 59, 59, .4);
+}
+
+Button#clearQueueBtn:hover
+{
+    border: 2px solid #FC3B3B;
+}
+
+Button#downloadAllBtn,
+QLabel#fileCounter
+{
+    background-color: #B0B0B0;
+}
+
+Button#downloadAllBtn[isEnabled="false"],
+QLabel#fileCounter[isEnabled="false"]
+{
+    background-color: rgba(176, 176, 176, .4);
+}
+
+Button#downloadAllBtn:hover
+{
+    border: 2px solid #B0B0B0;
+}
+
+QLabel#fileCounter
+{
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}

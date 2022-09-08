@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>css/style.css</file>
+        <file>icons/circle-arrow-down-solid.svg</file>
+        <file>icons/circle-arrow-up-solid.svg</file>
+        <file>icons/circle-xmark-solid.svg</file>
+        <file>fonts/Inter-Black.ttf</file>
+        <file>fonts/Inter-Bold.ttf</file>
+        <file>fonts/Inter-ExtraBold.ttf</file>
+        <file>fonts/Inter-ExtraLight.ttf</file>
+        <file>fonts/Inter-Light.ttf</file>
+        <file>fonts/Inter-Medium.ttf</file>
+        <file>fonts/Inter-Regular.ttf</file>
+        <file>fonts/Inter-SemiBold.ttf</file>
+        <file>fonts/Inter-Thin.ttf</file>
+    </qresource>
+</RCC>
